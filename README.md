@@ -1,6 +1,6 @@
 # Simple counter 
 
-# Tools
+## Tools
 Bootstrap
 React
 HTML
